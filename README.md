@@ -79,8 +79,10 @@ gcc VFS_Functions.c VirtualFileSystem.c -o myvfs.exe
 
 ## Screenshots
 
- **The Command-Line Interface**
+## **The Command-Line Interface**
+
 <img src="Screenshots/vfs.png" alt="VFS Screenshot" width="400"/>
+
 
 ---
 
