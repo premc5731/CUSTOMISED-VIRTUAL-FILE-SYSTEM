@@ -46,7 +46,7 @@ int main(void)
 	while(1)
 	{
 		//print the shell prompt
-		printf("CVFS> ");
+		printf("VFS> ");
 		//read the command line - string with spaces
 		scanf("%[^\n]s",str);
 		//flush the enter key pressed after entering the command line (above step)
