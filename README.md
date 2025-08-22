@@ -26,13 +26,13 @@ This Customised Virtual File System (CVFS) project is built using the following 
 ### Compilation (Windows/Linux)
 
 ```bash
-gcc CVFS_Functions.c VirtualFileSystem.c -o myCvfs.exe
+gcc VFS_Functions.c VirtualFileSystem.c -o myCvfs.exe
 ```
 
 ### Run the program:
 
 ```bash
-./myCvfs.exe
+./mycvfs.exe
 ```
 
 ---
